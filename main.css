@@ -65,7 +65,7 @@ section h2,
 }
 
 .articles article a{
-    background-color: blue;
+    background-color: rgb(18, 13, 85);
     color: white;
     padding: 8px;
     display: inline-block;
@@ -92,7 +92,8 @@ section h2{
 }
 
 #esportes {
-    background-color: rgba(0, 255, 0,0.3);
+    background-color:red
+    (0, 255, 0,0.3);
 }
 
 #esportes .articles article a{
@@ -122,5 +123,6 @@ section h2{
 }
 
 #tecnologia .articles article a{
-    background-color: rgb(87, 9, 133);
+    background-color:white
+    (87, 9, 133);
 }
